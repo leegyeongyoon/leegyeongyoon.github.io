@@ -1,8 +1,6 @@
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
 
-## 출처
-- https://github.com/congchu
 
 ## Overview ⭐️
 
@@ -16,3 +14,8 @@
 - HTML 문법을 몰라도 텍스트만 교체하여 활용 가능합니다.
 - HTML 문법을 알면 레이아웃이나 디자인을 변경할 수 있습니다.
 - CSS를 몰라도 제작 가능하지만, CSS에 친숙하다면 디자인도 자유롭게 변경할 수 있습니다.
+
+
+
+## 출처
+- https://github.com/congchu
